@@ -1,2 +1,2 @@
-# Jay-Chopra
+# JayChopra
 My Portfolio Website
